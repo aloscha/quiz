@@ -1,3 +1,5 @@
+//Oleksiy Yatsko
+
 package main
 
 import (
